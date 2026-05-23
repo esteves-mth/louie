@@ -232,7 +232,7 @@ a{
 }
 
 .img1{
-    background: url("/img/image_1.jpg");
+    background: url("img/image_1.jpg");
     background-size: cover;
     background-position: center;
     width: 17%;
@@ -241,7 +241,7 @@ a{
 }
 
 .img2{
-    background: url("/img/image_2.jpg");
+    background: url("img/image_2.jpg");
     background-size: cover;
     background-position: center;
     width: 17%;
@@ -251,7 +251,7 @@ a{
 }
 
 .img3{
-    background: url("/img/image_3.jpg");
+    background: url("img/image_3.jpg");
     background-size: cover;
     background-position: center;
     width: 17%;
@@ -260,7 +260,7 @@ a{
 }
 
 .img4{
-    background: url("/img/image_4.jpg");
+    background: url("img/image_4.jpg");
     background-size: cover;
     background-position: center;
     width: 17%;
@@ -269,7 +269,7 @@ a{
 }
 
 .img5{
-    background: url("/img/image_5.jpg");
+    background: url("img/image_5.jpg");
     background-size: cover;
     background-position: center;
     width: 17%;
@@ -278,7 +278,7 @@ a{
 }
 
 .img1:hover::after, .img2:hover::after, .img3:hover::after, .img4:hover::after, .img5:hover::after{
-    content: url("/img/instagram32w.png");
+    content: url("img/instagram32w.png");
     position: absolute;
     top: 50%;
     left: 50%;

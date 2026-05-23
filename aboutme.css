@@ -118,7 +118,7 @@ section {
 .imglouie{ 
     width: 50%;
     height: 100vh;
-    background-image: url("/img/author.jpg");
+    background-image: url("img/author.jpg");
     background-size: cover;
     display: flex;
 }
@@ -341,7 +341,7 @@ footer h1{
 }
 
 .rimage1{
-    background: url("/img/image_1.jpg");
+    background: url("img/image_1.jpg");
     background-size: cover;
     background-position: center;
     width: 29%;
@@ -364,7 +364,7 @@ footer h1{
 }
 
 .rimage4{
-    background: url("/img/image_4.jpg");
+    background: url("img/image_4.jpg");
     background-size: cover;
     background-position: center;
     width: 29%;

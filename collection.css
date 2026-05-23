@@ -22,7 +22,7 @@ ul{
 .imgauth{
     width: 160px;
     height: 160px;
-    background-image: url("/img/author.jpg");
+    background-image: url("img/author.jpg");
     background-size: cover;
     border-radius: 100%;
     margin-top: 30px;
@@ -167,81 +167,81 @@ section {
 }
 
 .photo1{
-    background-image: url("/img/image_1.jpg");
+    background-image: url("img/image_1.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 
 .photo2{
-    background-image: url("/img/image_2.jpg");
+    background-image: url("img/image_2.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 
 .photo3{
-    background-image: url("/img/image_3.jpg");
+    background-image: url("img/image_3.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 
 .photo4{
-    background-image: url("/img/image_4.jpg");
+    background-image: url("img/image_4.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 .photo5{
-    background-image: url("/img/image_5.jpg");
+    background-image: url("img/image_5.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 
 .photo6{
-    background-image: url("/img/image_6.jpg");
+    background-image: url("img/image_6.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 
 .photo7{
-    background-image: url("/img/image_7.jpg");
+    background-image: url("img/image_7.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 .photo8{
-    background-image: url("/img/image_8.jpg");
+    background-image: url("img/image_8.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 
 .photo9{
-    background-image: url("/img/image_9.jpg");
+    background-image: url("img/image_9.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 
 .photo10{
-    background-image: url("/img/image_10.jpg");
+    background-image: url("img/image_10.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 .photo11{
-    background-image: url("/img/image_11.jpg");
+    background-image: url("img/image_11.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
 }
 
 .photo12{
-    background-image: url("/img/image_12.jpg");
+    background-image: url("img/image_12.jpg");
     background-size: cover;
     background-position: center;
     flex-shrink: 0;
@@ -330,7 +330,7 @@ input {
 button::before{
     border: 0;
     background-color: none;
-    content: url("/img/paper-plane.png");
+    content: url("img/paper-plane.png");
 }
 
 .copy{
@@ -378,14 +378,14 @@ footer h1{
 }
 
 .rimage1{
-    background: url("/img/image_1.jpg");
+    background: url("img/image_1.jpg");
     background-size: cover;
     background-position: center;
     width: 29%;
     height: 14.5vh;
 }
 .rimage2{
-    background: url("/img/image_2.jpg");
+    background: url("img/image_2.jpg");
     background-size: cover;
     background-position: center;
     width: 29%;
@@ -393,7 +393,7 @@ footer h1{
 }
 
 .rimage3{
-    background: url("/img/image_3.jpg");
+    background: url("img/image_3.jpg");
     background-size: cover;
     background-position: center;
     width: 29%;
@@ -401,7 +401,7 @@ footer h1{
 }
 
 .rimage4{
-    background: url("/img/image_4.jpg");
+    background: url("img/image_4.jpg");
     background-size: cover;
     background-position: center;
     width: 29%;
@@ -409,7 +409,7 @@ footer h1{
 }
 
 .rimage5{
-    background: url("/img/image_5.jpg");
+    background: url("img/image_5.jpg");
     background-size: cover;
     background-position: center;
     width: 29%;
@@ -417,7 +417,7 @@ footer h1{
 }
 
 .rimage6{
-    background: url("/img/image_6.jpg");
+    background: url("img/image_6.jpg");
     background-size: cover;
     background-position: center;
     width: 29%;
@@ -482,17 +482,17 @@ footer h1{
 }
 
 .loc::before{
-    content: url("/img/location.png");
+    content: url("img/location.png");
     margin-right: 5px;
 }
 
 .phone::before{
-    content: url("/img/telephone.png");
+    content: url("img/telephone.png");
     margin-right: 5px;
 }
 
 .email::before{
-    content: url("/img/email.png");
+    content: url("img/email.png");
     margin-right: 5px;
 }
 /*.poppins-bold {
